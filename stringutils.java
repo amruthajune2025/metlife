@@ -1,2 +1,3 @@
 hello this file contains the string related function
 adding this line...
+good morning
